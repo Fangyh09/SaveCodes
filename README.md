@@ -1,6 +1,12 @@
 # Five lines save python codes
 
-## Demo
+## 1. add all .py to git
+```
+git init
+git add *.py
+```
+
+## 2. Save it
 ```python
 if not os.path.exists(save_dir):
     os.mkdir(save_dir)
