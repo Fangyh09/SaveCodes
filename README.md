@@ -1,6 +1,6 @@
-# SaveCodes
-One line to save all .py codes
+# Five lines save python codes
 
+## Demo
 ```python
 if not os.path.exists(save_dir):
     os.mkdir(save_dir)
