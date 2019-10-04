@@ -1,6 +1,6 @@
 # Five lines save python codes
 
-## 1. add all .py to git
+## 1. Add all .py to git
 ```
 git init
 git add *.py
